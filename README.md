@@ -1,4 +1,4 @@
-# Proyek Penjualan PT.ABC
+# Penjualan PT.ABC
 ## Business Understanding
 
 PT.ABC(perusahaan fiktif) adalah sebuah perusahaan yang bergerak di bidang penjualan produk. Dalam upaya untuk meningkatkan performa penjualan dan mengoptimalkan keuntungan, perusahaan telah mengembangkan sebuah dashboard yang berfungsi untuk memantau berbagai metrik kunci, seperti peta persebaran penjualan, keuntungan berdasarkan kategori, serta pendapatan kotor dan biaya berdasarkan provinsi dan produk. Dashboard ini dirancang untuk memberikan wawasan yang lebih dalam mengenai pemantauan perusahaan, kinerja wiraniaga sehingga dapat digunakan dalam upaya mendukung pengambilan keputusan strategis.
@@ -25,7 +25,12 @@ Dengan solusi ini, PT.ABC diharapkan dapat meningkatkan efisiensi operasional da
 
 ## Schema
 
-
+![Schema](https://github.com/user-attachments/assets/f4b72454-9a8d-4777-afe9-0f600a362f3f)
 
 ## Dashboard
-Berikut ini akan ditampilkan hasil visualisasi data pada perusahaan PT.ABC
+Berikut ini akan ditampilkan hasil visualisasi data pada perusahaan PT.ABC dengan Microsoft Power BI
+
+![Dashboard 1](https://github.com/user-attachments/assets/c143a0f3-b1b8-4e6a-a192-4909e37fa0f3)
+
+![Dashboard 2](https://github.com/user-attachments/assets/74485e8b-ef7c-4212-b519-a168d6de7d1e)
+
